@@ -1,6 +1,6 @@
 public enum TankTypes
 {
-    GoldTank,
-    BrownTank,
-    DustTank
+    GreenTank,
+    BlueTank,
+    RedTank
 }
